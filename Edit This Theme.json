@@ -1,9 +1,9 @@
 {
-	"name": "Edit This Theme",
-	"description": "Edit the theme description here.",
-	"version": "1.0",
-	"ThemeURL": "https://github.com/twttr-theme/editthistheme.json",
-	"id": "ba8a00b2-3b42-4e36-a6d9-90bcaf5137f0",
+  "name": "Edit This Theme",
+  "description": "Edit the theme description here.",
+  "version": "1.0",
+  "ThemeURL": "https://github.com/twttr-theme/Themes/Edit This Theme.json",
+  "id": "ba8a00b2-3b42-4e36-a6d9-90bcaf5137f0",
   "backgroundColor" : {
     "hex" : "15202BFF"
   },
